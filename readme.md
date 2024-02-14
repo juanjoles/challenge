@@ -9,3 +9,7 @@ Pasos para instalar el proyecto:
 .- Levantar las imagenes de docker con el comando docker-compose up.
 
 .- Ejecutar el comando node src/index.js
+
+GITHUB:
+
+https://github.com/juanjoles/challenge/
